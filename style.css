@@ -1,0 +1,12 @@
+#brand {
+    font-family: "Sevillana", cursive;
+    font-size: 90px;
+    text-align: center;
+}
+
+.recipes {
+    text-align: center;
+    list-style: none;
+    font-size: 40px;
+    line-height: 80px;
+}
